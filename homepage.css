@@ -1,0 +1,24 @@
+body {
+    background-color: #242222;
+    font-family: sans-serif;
+    text-align: center;
+    color: #01c5f0;
+}
+h1 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+a {
+    display: inline-flex;
+    flex-direction: column;
+    width: 200px;
+    line-height: 2em;
+    color: white;
+    text-decoration: none;
+    background-color: #01c5f0;
+    border: 1px solid;
+    border-radius: 30px
+}
+li {
+    list-style: none;
+}
